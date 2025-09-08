@@ -1,0 +1,12 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+button,a{
+    cursor: pointer;
+}
+
+.active-category{
+    background-color: green;
+    color: white;
+}
